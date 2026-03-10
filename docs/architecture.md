@@ -73,3 +73,17 @@
 - Lacunas de documentação:
 - Dúvidas pendentes:
 - Evoluções sugeridas:
+
+
+## Anexos e Referências
+- Diagrama C4 (contexto/container/componente):
+- Diagramas de fluxo críticos:
+- ADRs/RFCs relacionados:
+- Links de PRs/issues relacionados:
+
+## Checklist de Qualidade (pré-entrega)
+- [ ] Contexto, escopo e stakeholders claramente descritos.
+- [ ] Componentes e integrações mapeados.
+- [ ] Requisitos não funcionais documentados.
+- [ ] Trade-offs e riscos com mitigação registrados.
+- [ ] Premissas, lacunas e riscos preenchidos.
