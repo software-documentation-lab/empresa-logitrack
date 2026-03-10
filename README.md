@@ -14,3 +14,17 @@ Produzir documentação de arquitetura que descreva componentes, integrações, 
 2. Trabalhe exclusivamente no fork do grupo.
 3. Preencha a documentação na pasta `docs/`, usando `docs/architecture-template.md` como referência e consolidando o resultado em `docs/architecture.md`.
 4. Entregue o link do fork do grupo conforme orientação da disciplina.
+
+## Ferramentas recomendadas
+- Diagramas de arquitetura: draw.io (diagrams.net), Lucidchart ou Miro.
+- Diagramas textuais: Mermaid ou PlantUML (opcional).
+- Escrita e revisão em Markdown: VS Code com extensão de Markdown.
+
+## Uso responsável de IA
+- IA pode apoiar descrição de componentes, fluxos e riscos arquiteturais.
+- Valide as sugestões com os artefatos de contexto em `src/`.
+- Quando assumir algo não explícito no cenário, registre como premissa.
+
+## Entregável esperado com apoio das ferramentas
+- Documento final `docs/architecture.md` com visão arquitetural clara e rastreável.
+- Fluxos críticos, riscos e lacunas documentados de forma objetiva.
