@@ -1,5 +1,16 @@
 # Documentação de Arquitetura - LogiTrack
 
+## Metadados do Documento
+- Documento:
+- Versão:
+- Status: Rascunho | Em revisão | Aprovado
+- Responsável (owner):
+- Aprovador:
+- Última atualização:
+- Próxima revisão:
+- Público-alvo:
+- Classificação da informação: Interna | Restrita | Confidencial
+
 ## 1. Contexto do Negócio
 - Domínio de atuação:
 - Problema principal:
@@ -8,7 +19,7 @@
 ## 2. Escopo da Arquitetura Documentada
 - Sistemas incluídos:
 - Sistemas fora de escopo:
-- Ambientes considerados:
+- Ambientes considerados (dev/hml/prd):
 
 ## 3. Stakeholders e Necessidades
 | Stakeholder | Necessidade principal | Impacto na arquitetura |
@@ -30,7 +41,7 @@
 - Integrações externas:
 - Protocolos e formatos de troca:
 
-## 7. Fluxos Críticos
+## 7. Fluxos Críticos (pelo menos 2)
 ### 7.1 Fluxo: [Nome do fluxo]
 1. Etapa 1
 2. Etapa 2
